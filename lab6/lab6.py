@@ -11,7 +11,7 @@ def count_non_overlapping(s, substr, start):
   starting from the index start.
   You can not use str method s.count.
   """
-  return 0
+  return 23
 
 def count_non_overlapping_m(s, substr, start):
   """
@@ -19,7 +19,7 @@ def count_non_overlapping_m(s, substr, start):
   starting from the index start.
   You must use a one-liner implementation by using s.count().
   """
-  return 0
+  return 45
 
 def find_smallest(t):
   """

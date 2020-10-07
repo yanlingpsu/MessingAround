@@ -1,9 +1,9 @@
 # Author: 
 def f1(a):
-  return 0 
+  return 1 
 
 def f2(n):
-  return 0 
+  return 2 
 
 def run():
   return

@@ -12,7 +12,7 @@ def is_palindrome1(s):
   You must implement this with a while loop that compares
   characters in s one by one going forward vs. going backward
   """
-  return True
+  return 1
 
 def is_palindrome2(s):
   """
@@ -24,7 +24,7 @@ def is_palindrome2(s):
   Use negative index to get the last character and use
   slicing to get the middle of the string.
   """
-  return True
+  return 0
 
 def is_palindrome3(s):
   """
@@ -34,7 +34,7 @@ def is_palindrome3(s):
   Use slicing (with step being -1) to get the reverse of a
   string, and a string is a palindrome if it is equivalent to its reverse.
   """
-  return True
+  return False
 
 def run():
   s = input("Enter a string: ")
