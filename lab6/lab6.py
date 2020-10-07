@@ -11,7 +11,10 @@ def count_non_overlapping(s, substr, start):
   starting from the index start.
   You can not use str method s.count.
   """
+<<<<<<< HEAD
   return 1
+=======
+>>>>>>> f99e0eebbccb701d9f69ffa3791a196f5c155ae2
   return 0
 
 def count_non_overlapping_m(s, substr, start):
